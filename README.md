@@ -1,4 +1,4 @@
-# JosePedrazaViewTool
+# JosePedrazaViewTools
 
 > Various view specific methods for application I use.
 
@@ -20,8 +20,10 @@ Or install it yourself as:
     $ gem install jose_pedraza_view_tool
 
 ## Usage
+```ruby
+JosePedrazaViewTool::Renderer.copyright 'Jose Pedraza', 'All rights reserved'
+```
 
-TODO: Write usage instructions here
 
 ## Development
 
